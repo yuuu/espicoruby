@@ -1,3 +1,5 @@
+*This repository has been moved to [picoruby/R2P2-ESP32](https://github.com/picoruby/R2P2-ESP32) .*
+
 # espicoruby
 
 This project runs [PicoRuby](https://github.com/picoruby/picoruby) on ESP32 and serves as an example of using [picoruby-esp32](https://github.com/yuuu/picoruby-esp32).  
